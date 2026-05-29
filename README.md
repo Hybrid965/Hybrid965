@@ -1,10 +1,9 @@
 # Hey, I'm Will 👋
 
-IT professional and front-end developer based in Kent, UK — currently transitioning into DevOps.
+IT professional and front-end developer based in Kent, UK.
 
 I have a background in systems administration and Microsoft 365 infrastructure, combined with 
-front-end development through the Code Institute Level 5 Front End Diploma. I'm now building 
-toward a DevOps career, focusing on Azure, Terraform, and CI/CD pipelines.
+front-end development through the Code Institute Level 5 Full Stack Diploma.
 
 ## 🛠️ Tech & Tools
 
