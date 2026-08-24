@@ -16,8 +16,7 @@ front-end development through the Code Institute Level 5 Full Stack Diploma.
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
 
 ## 📜 Certifications
-- Microsoft Certified: Azure Administrator Fundementals (AZ-900)
-- Microsoft Certified: Azure Administrator Associate (AZ-104)
+- Microsoft Certified: Azure Administrator Fundementals (AZ-900) *(in progress)*
 - Code Institute Level 5 Diploma in Front End Development *(in progress)*
 
 ## 🔭 Currently Working On
